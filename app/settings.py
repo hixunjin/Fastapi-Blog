@@ -1,0 +1,2 @@
+#Token密钥
+SECRET_KEY = "a47ef0dc47d84f6bb73c1e9a27125bafc7f3836ea41b39d6b8730e5df07f53e7"
